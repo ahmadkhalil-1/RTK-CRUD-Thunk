@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(167, 167, 224);
+}
+
+.card {
+  margin-top: 3rem;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.navbar-toggler {
+  background-color: white;
+}
